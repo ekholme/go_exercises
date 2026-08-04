@@ -1,6 +1,12 @@
 # go_exercises
 A workspace to practice writing small programs in Go
 
+## Structure
+
+New exercises should be implemented in their own subdirectories. Each subdirectory should contain its own `main` package and `main` func. 
+
+Programs should be run from the root directory via `go run ./subdir_name`
+
 ## Contents
 
 - `/reader_interface`: Working through how to read in the contents of a file by using the Reader interface.
