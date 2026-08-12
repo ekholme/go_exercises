@@ -10,3 +10,4 @@ Programs should be run from the root directory via `go run ./subdir_name`
 ## Contents
 
 - `/reader_interface`: Working through how to read in the contents of a file by using the Reader interface.
+- `/simple_web_server`: A super simple way to implement a hello world web server.
